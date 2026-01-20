@@ -15,7 +15,10 @@ Os usuários devem ser capazes de ver estados de hover e foco para todos os elem
 - HTML5 semântico
 - CSS (layout e estilização)
 
-## Autor
+## Autora
+
+Maria Eduarda - Desenvolvedora Front-end Júnior
+[Portfolio] (https://mariachf.github.io/-portf-lio-react-2025/)
 
 - Frontend Mentor - [@Mariachf](https://www.frontendmentor.io/profile/Mariachf)
 
